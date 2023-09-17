@@ -1,5 +1,6 @@
 # CODING-SAMURAI-INTERNSHIP-TASK---Web-based-Calculator
-Simple calculator web application with basic arithmetic operations, user-friendly interface, and responsive design. Easy to use, reliable, and works well on all devices.  
+Simple calculator web application with basic arithmetic operations, user-friendly interface, and responsive design. Easy to use, reliable, and works well on all devices.
+
 Imagine a calculator that is both simple and elegant, yet incredibly powerful. A calculator that you can use to solve any mathematical problem, from the most basic to the most complex. A calculator that is always there for you, no matter what device you are using or what screen size you have.
 
 This is the calculator that I will create in this project.
