@@ -3,6 +3,7 @@ Simple calculator web application with basic arithmetic operations, user-friendl
 Imagine a calculator that is both simple and elegant, yet incredibly powerful. A calculator that you can use to solve any mathematical problem, from the most basic to the most complex. A calculator that is always there for you, no matter what device you are using or what screen size you have.
 
 This is the calculator that I will create in this project.
+
 ![Screenshot 2023-09-17 212134](https://github.com/Shivam143bit/CODING-SAMURAI-INTERNSHIP-TASK---Web-based-Calculator/assets/85752605/03263b7b-eeb8-41be-9876-3bdd055a8725)
 I will start by designing a clean and user-friendly interface. The buttons will be large and easy to press, and the display will be clear and concise. I will also implement error handling to ensure that your calculator is always reliable.
 
