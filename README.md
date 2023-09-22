@@ -13,7 +13,7 @@ Once I have completed the basic functionality, I can add additional features suc
 
 The possibilities are endless!
 
-Here are some additional thoughts on how to make your calculator beautiful and very precise:
+# Here are some additional thoughts on how to make your calculator beautiful and very precise:
 
 Use a high-contrast color scheme to make the buttons and display easy to read.
 Use a consistent font throughout the calculator.
