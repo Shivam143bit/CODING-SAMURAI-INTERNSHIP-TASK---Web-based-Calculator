@@ -1,5 +1,5 @@
 # CODING-SAMURAI-INTERNSHIP-TASK---Web-based-Calculator
-## Embarking on a Visual Odyssey: Crafting a Web-Based Calculator with Elegance and Precision
+# Embarking on a Visual Odyssey: Crafting a Web-Based Calculator with Elegance and Precision
 
 In the symphony of web development, behold the marvel that is our web-based calculator, meticulously architected to not just compute numbers but to captivate the user with its elegance, proficiency, and a touch of visual poetry.
 
