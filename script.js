@@ -1,19 +1,33 @@
+let inputField = document.querySelector('input');
 let string = "";
-let buttons = document.querySelectorAll('.button');
-Array.from(buttons).forEach((button)=>{
-  button.addEventListener('click', (e)=>{
-    if(e.target.innerHTML == '='){
-      string = eval(string);
-      document.querySelector('input').value = string;
-    }
-    else if(e.target.innerHTML == 'C'){
-      string = ""
-      document.querySelector('input').value = string;
-    }
-    else{ 
-    console.log(e.target)
-    string = string + e.target.innerHTML;
-    document.querySelector('input').value = string;
-      }
-  })
-})
+
+document.querySelectorAll('.button').forEach(button => {
+  button.addEventListener('click', handleClick);
+});
+
+function handleClick(e) {
+  const buttonText = e.target.innerHTML;
+
+  if (buttonText === '=') {
+    evaluateExpression();
+  } else if (buttonText === 'C') {
+    clearInput();
+  } else {
+    appendToInput(buttonText);
+  }
+}
+
+function evaluateExpression() {
+  string = eval(string);
+  inputField.value = string;
+}
+
+function clearInput() {
+  string = "";
+  inputField.value = string;
+}
+
+function appendToInput(value) {
+  string += value;
+  inputField.value = string;
+}
